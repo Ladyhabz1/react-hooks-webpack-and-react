@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In this lesson, we'll unpack what **webpack** brings to the table when
+This lesson, we'll unpack what **webpack** brings to the table when
 developing React applications.
 
 ## The Problem
